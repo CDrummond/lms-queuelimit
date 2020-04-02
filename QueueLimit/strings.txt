@@ -1,0 +1,18 @@
+PLUGIN_QUEUELIMIT
+	EN	Queue Limit
+
+PLUGIN_QUEUELIMIT_DESC
+	EN	Periodically limit history size of queue.
+
+PLUGIN_QUEUELIMIT_ENABLE
+	EN	Enable queue limiting
+
+PLUGIN_QUEUELIMIT_ENABLE_DESC
+	EN	Periodically limit history size of queue.
+
+PLUGIN_QUEUELIMIT_DISABLING
+	EN	Disabling queue limiting
+
+PLUGIN_QUEUELIMIT_DISABLING
+	EN	Enabling queue limiting
+
