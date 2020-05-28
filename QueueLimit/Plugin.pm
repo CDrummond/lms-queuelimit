@@ -11,8 +11,8 @@ use Slim::Utils::Strings qw(string);
 
 use Plugins::QueueLimit::PlayerSettings;
 
-my $QUEUE_CHECK_SIZE = 100;
-my $QUEUE_HISTORY_SIZE = 75;
+my $QUEUE_CHECK_SIZE = 60;
+my $QUEUE_HISTORY_SIZE = 40;
 
 my $log = Slim::Utils::Log->addLogCategory({
     'category' => 'plugin.queuelimit',
