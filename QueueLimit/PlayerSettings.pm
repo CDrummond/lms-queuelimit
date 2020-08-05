@@ -1,5 +1,13 @@
 package Plugins::QueueLimit::PlayerSettings;
 
+#
+# LMS-QueueLimit
+#
+# Copyright (c) 2020 Craig Drummond <craig.p.drummond@gmail.com>
+#
+# MIT license.
+#
+
 use strict;
 use base qw(Slim::Web::Settings);
 
