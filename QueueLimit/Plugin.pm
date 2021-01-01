@@ -3,7 +3,7 @@ package Plugins::QueueLimit::Plugin;
 #
 # LMS-QueueLimit
 #
-# Copyright (c) 2020 Craig Drummond <craig.p.drummond@gmail.com>
+# Copyright (c) 2020-2021 Craig Drummond <craig.p.drummond@gmail.com>
 #
 # MIT license.
 #
